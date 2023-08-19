@@ -1,0 +1,33 @@
+.poke_name h2{
+    margin-top: 60px;
+    align-items: center;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 35px;
+    
+}
+
+.Card{
+    margin-left: 20px;
+}
+
+.poke_type{
+    text-transform: capitalize;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card_info{
+    margin-top: 40px;
+    text-align: center;
+}
+.title{
+    font-weight: 700;
+}
+
+.Card_type{
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0;
+    border-radius: 5px;
+    color: #fff;
+}

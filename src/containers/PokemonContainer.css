@@ -1,0 +1,54 @@
+.nav{
+    padding: 20px;
+    background: linear-gradient (#ee5350, #ee5130, #ae5033);
+    color: black;
+    text-align: center;
+}
+
+.App{
+    background: linear-gradient (#ee5350, #ee5130, #ae5033);
+
+}
+
+.img{
+    text-align: center;
+}
+.grid-container{
+    display: flex;
+    flex-shrink: 0;
+    flex-wrap: nowrap;
+    min-width: 700px;
+    justify-content: center;
+    border: 5px solid black;
+    border-radius: 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    background: #f7f7f7;
+    height: 500px;
+   
+   
+}
+
+
+.grid-container img{
+    margin-top: 10px;
+    height: 480px;
+    
+    background: #f7f7f7;
+}
+
+.grid-container img:hover{
+    background: #dddd;
+    border-radius: 400px;
+}
+
+
+
+
+img{
+    margin-top: 40px;
+
+}
+
+
